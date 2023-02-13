@@ -357,13 +357,13 @@ img {
 }
 @media screen and (max-width: 767px) {
   .about {
-    background: url(/img/sp/bg.png) center center/cover;
+    background: url(https://github.com/nneeeeektt11/sobolon/blob/main/img/sp/bg.png?raw=true) center center/cover;
     padding: 176px 0 52px;
   }
 }
 @media screen and (min-width: 768px) {
   .about {
-    background: url(/img/bg.png) center center/cover;
+    background: url(https://github.com/nneeeeektt11/sobolon/blob/main/img/bg.png?raw=true) center center/cover;
   }
 }
 .about::before {
@@ -627,7 +627,7 @@ img {
 /* contact
 ================================================ */
 .contact {
-  background: url(/img/contact.png) center center/cover;
+  background: url(https://github.com/nneeeeektt11/sobolon/blob/main/img/contact.png?raw=true) center center/cover;
   margin-top: 225px;
   padding: 72px 40px 86px;
 }
