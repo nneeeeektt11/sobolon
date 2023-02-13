@@ -205,13 +205,13 @@ img {
 @media screen and (max-width: 767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(./img/sp/top.png) center center/cover;
+    background: url(https://nneeeeektt11.github.io/sobolon/img/sp/top.png) center center/cover;
   }
 }
 @media screen and (min-width: 768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(./img/top.png) top right/82.5% no-repeat;
+    background: url(https://nneeeeektt11.github.io/sobolon/img/top.png) top right/82.5% no-repeat;
   }
 }
 
